@@ -1,1 +1,1 @@
-# JavaScript-Methods-CheatSheet
+# JavaScript Methods CheatSheet
