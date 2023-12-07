@@ -17,7 +17,7 @@
 - **toUpperCase():** Converts a string to uppercase.
 - **toLowerCase():** Converts a string to lowercase.
 - **trim():** Removes whitespace from both ends of a string.
-- [Learn more! 🚀](https://github.com/SamiurRahmanMukul/JavaScript-Methods-CheatSheet/tree/main/strign-methods)
+- [Learn more 🚀](https://github.com/SamiurRahmanMukul/JavaScript-Methods-CheatSheet/tree/main/strign-methods)
 
 ## Arrays
 
@@ -25,21 +25,21 @@
 - **pop():** Removes the last element from an array.
 - **join(separator):** Joins all elements of an array into a string.
 - **slice(start, end):** Extracts a portion of an array.
-- [Learn more! 🚀](https://github.com/SamiurRahmanMukul/JavaScript-Methods-CheatSheet/tree/main/array-methods)
+- [Learn more 🚀](https://github.com/SamiurRahmanMukul/JavaScript-Methods-CheatSheet/tree/main/array-methods)
 
 ## Numbers
 
 - **toFixed(digits):** Formats a number using fixed-point notation.
 - **toPrecision(precision):** Formats a number to a specified precision.
 - **parseInt(string, radix):** Parses a string and returns an integer.
-- [Learn more! 🚀](https://github.com/SamiurRahmanMukul/JavaScript-Methods-CheatSheet/tree/main/number-methods)
+- [Learn more 🚀](https://github.com/SamiurRahmanMukul/JavaScript-Methods-CheatSheet/tree/main/number-methods)
 
 ## Objects
 
 - **keys():** Returns an array of a given object's property names.
 - **values():** Returns an array of a given object's property values.
 - **hasOwnProperty(prop):** Returns a boolean indicating whether the object has the specified property.
-- [Learn more! 🚀](https://github.com/SamiurRahmanMukul/JavaScript-Methods-CheatSheet/tree/main/object-methods)
+- [Learn more 🚀](https://github.com/SamiurRahmanMukul/JavaScript-Methods-CheatSheet/tree/main/object-methods)
 
 ## Dates
 
@@ -47,7 +47,7 @@
 - **getMonth():** Returns the month (0-11).
 - **getFullYear():** Returns the year.
 - **toLocaleDateString():** Returns a string representing the date.
-- [Learn more! 🚀](https://github.com/SamiurRahmanMukul/JavaScript-Methods-CheatSheet/tree/main/date-methods)
+- [Learn more 🚀](https://github.com/SamiurRahmanMukul/JavaScript-Methods-CheatSheet/tree/main/date-methods)
 
 <p align="center">
   <strong>HAPPY CODING 😄 & I 💖 PROGRAMMING</strong>
