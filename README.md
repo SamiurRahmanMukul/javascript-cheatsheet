@@ -25,7 +25,7 @@
 - **toUpperCase():** Converts a string to uppercase.
 - **toLowerCase():** Converts a string to lowercase.
 - **trim():** Removes whitespace from both ends of a string.
-- [Learn more 🚀](https://github.com/SamiurRahmanMukul/JavaScript-Methods-CheatSheet/tree/main/strign-methods)
+- [Learn more 🚀](https://github.com/SamiurRahmanMukul/JavaScript-Methods-CheatSheet/tree/main/string-methods)
 
 ## Arrays
 

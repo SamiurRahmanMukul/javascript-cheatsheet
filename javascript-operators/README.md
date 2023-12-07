@@ -61,7 +61,7 @@ let s = false;
 | Operator | Example | Result | Description |
 | -------- | ------- | ------ | ----------- |
 | &&       | r && s  | false  | Logical AND |
-| ||       | r || s  | true   | Logical OR  |
+| ∣∣       | r ∣∣ s  | true   | Logical OR  |
 | !        | !r      | false  | Logical NOT |
 
 ## Conditional (Ternary) Operator
