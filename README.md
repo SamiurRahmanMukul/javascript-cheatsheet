@@ -8,6 +8,14 @@
 
 ![CheatSheet Banner](https://raw.githubusercontent.com/SamiurRahmanMukul/JavaScript-Methods-CheatSheet/main/cheatsheet-banner.png)
 
+## JavaScript Variables
+
+- [Learn more 🚀](https://github.com/SamiurRahmanMukul/JavaScript-Methods-CheatSheet/tree/main/javascript-variables)
+
+## JavaScript Operators
+
+- [Learn more 🚀](https://github.com/SamiurRahmanMukul/JavaScript-Methods-CheatSheet/tree/main/javascript-operators)
+
 # JavaScript Methods CheatSheet
 
 ## Strings
