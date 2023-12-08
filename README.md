@@ -11,9 +11,9 @@
 ## JavaScript Fundamentals
 
 - [Variables 🚀](https://github.com/SamiurRahmanMukul/JavaScript-Methods-CheatSheet/tree/main/javascript-variables)
-
 - [Operators 🚀](https://github.com/SamiurRahmanMukul/JavaScript-Methods-CheatSheet/tree/main/javascript-operators)
 - [Functions 🚀](https://github.com/SamiurRahmanMukul/JavaScript-Methods-CheatSheet/tree/main/javascript-functions)
+- [Loops 🚀](https://github.com/SamiurRahmanMukul/JavaScript-Methods-CheatSheet/tree/main/javascript-loops)
 
 # JavaScript Methods CheatSheet
 
