@@ -8,13 +8,12 @@
 
 ![CheatSheet Banner](https://raw.githubusercontent.com/SamiurRahmanMukul/JavaScript-Methods-CheatSheet/main/cheatsheet-banner.png)
 
-## JavaScript Variables
+## JavaScript Fundamentals
 
-- [Learn more 🚀](https://github.com/SamiurRahmanMukul/JavaScript-Methods-CheatSheet/tree/main/javascript-variables)
+- [Variables 🚀](https://github.com/SamiurRahmanMukul/JavaScript-Methods-CheatSheet/tree/main/javascript-variables)
 
-## JavaScript Operators
-
-- [Learn more 🚀](https://github.com/SamiurRahmanMukul/JavaScript-Methods-CheatSheet/tree/main/javascript-operators)
+- [Operators 🚀](https://github.com/SamiurRahmanMukul/JavaScript-Methods-CheatSheet/tree/main/javascript-operators)
+- [Functions 🚀](https://github.com/SamiurRahmanMukul/JavaScript-Methods-CheatSheet/tree/main/javascript-functions)
 
 # JavaScript Methods CheatSheet
 
