@@ -72,8 +72,11 @@ const colors = ["red", "green", "blue"];
 for (let color of colors) {
   console.log(color);
 }
+```
 
-// Nested Loops
+## Nested Loops
+
+```javascript
 // Example 8: Multiplication Table (2x2 to 10x10)
 for (let i = 2; i <= 10; i++) {
   console.log(`Multiples of ${i}:`);

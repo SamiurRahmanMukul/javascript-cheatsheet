@@ -14,6 +14,7 @@
 - [Operators 🚀](https://github.com/SamiurRahmanMukul/JavaScript-Methods-CheatSheet/tree/main/javascript-operators)
 - [Functions 🚀](https://github.com/SamiurRahmanMukul/JavaScript-Methods-CheatSheet/tree/main/javascript-functions)
 - [Loops 🚀](https://github.com/SamiurRahmanMukul/JavaScript-Methods-CheatSheet/tree/main/javascript-loops)
+- [OOP 🚀](https://github.com/SamiurRahmanMukul/JavaScript-Methods-CheatSheet/tree/main/javascript-oop)
 
 # JavaScript Methods CheatSheet
 
