@@ -15,6 +15,7 @@
 - [Functions 🚀](https://github.com/SamiurRahmanMukul/JavaScript-Methods-CheatSheet/tree/main/javascript-functions)
 - [Loops 🚀](https://github.com/SamiurRahmanMukul/JavaScript-Methods-CheatSheet/tree/main/javascript-loops)
 - [OOP 🚀](https://github.com/SamiurRahmanMukul/JavaScript-Methods-CheatSheet/tree/main/javascript-oop)
+- [TypeScript 🚀](https://github.com/SamiurRahmanMukul/JavaScript-Methods-CheatSheet/tree/main/learn-typescript)
 
 # JavaScript Methods CheatSheet
 
